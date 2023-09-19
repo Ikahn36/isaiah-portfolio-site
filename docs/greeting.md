@@ -1,0 +1,4 @@
+# Greeting
+
+id: greeting
+slug: /
