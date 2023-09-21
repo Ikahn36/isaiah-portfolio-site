@@ -1,4 +1,7 @@
+---
+sidebar_position: 7
+---
+
+
 # Greeting
 
-id: greeting
-slug: /
