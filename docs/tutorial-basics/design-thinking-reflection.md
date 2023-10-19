@@ -8,6 +8,7 @@ The first step was to create a list of small problems that bugged me. Some of th
 ## Defining
 
 In this step, I tried to turn a few of my bugs into "how might we" statements. This was really challenging at first because it was difficult to balance between being too specific and too general in my question. Additionally, some of my bugs, such as the issue with my TV, did not have an easy fix that could be designed through this process so crafting a question for that was especially challenging. Ultimtaely, I focused on my issue with the table. Originally, I tried to phrase my question around the idea of providing more shade coverage at my lunch table. However, this was a little bit too specific, since it assumes the best solution would just be to have more shade. Eventually, I refined my statement to be "how might we provide a more comfortable experience for everyone at my lunch table?" I think this is an effective "how might we" statement because it addresses the specific issue that there is discomfort at my lunch table while allowing for a wider range of solutions to the problem.
+![IMG_2482](IMG_2482.jpeg)
 
 ## Ideating
 
@@ -16,3 +17,4 @@ I did not get too much help from ideating in this case. A lot of the most helpfu
 ## Prototyping
 
 For my prototype, my idea was to design a table that had an umbrella built into the center of it so that the whole table would be covered. To do this, I created a model table out of a small piece of cardboard and 4 short wooden sticks. I then used another stick and a piece of paper to model the umbrella, which I glued to the center of my table. I really enjoyed creating this prototype because I had a lot of fun creating my model out of scrap pieces I could find. I think I did a really good job of creating what I wanted as well since I think my model looked really good. However, it wasn't necessarily the most helpful thing to prototype. While I could see what my vision would look like, I didn't really gain any information that would help me improve it when I tried to make an actual design. The main issue is that I did not think to make anything to scale since I just wanted to see a model of it. I think in the future if I took a bit more time to make everything to scale, I could use the prototype to see what size and shape would be necessary to provide shade to the entire table. With that small change, I think I would have had a really cool and useful prototype that would help me continue to design my product well.
+![IMG_2488](IMG_2488.jpeg)
